@@ -3,7 +3,9 @@ RENCANA CONTEN WPU
 - javascript
   -ES6
   -FRAMEWORK
-  - FUNDAMENTAL
+  -angular
+  -react
 - php framework
+-laravel
 - vlog
 - interview
