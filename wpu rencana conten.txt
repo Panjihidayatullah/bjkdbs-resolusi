@@ -3,6 +3,7 @@ RENCANA CONTEN WPU
 - javascript
   -ES6
   -FRAMEWORK
+  - FUNDAMENTAL
 - php framework
 - vlog
 - interview
