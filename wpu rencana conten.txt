@@ -1,9 +1,12 @@
 RENCANA CONTEN WPU
 
 - javascript
+-viu
   -ES6
   -FRAMEWORK
+  -laravel
   - FUNDAMENTAL
 - php framework
 - vlog
 - interview
+-python
