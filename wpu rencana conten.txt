@@ -8,6 +8,7 @@ RENCANA CONTEN WPU
   -laravel
   - FUNDAMENTAL
 - php framework
+-laravel
 - vlog
 - interview
 -python
