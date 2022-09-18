@@ -2,6 +2,7 @@ RENCANA CONTEN WPU
 
 - javascript
 -viu
+- react
   -ES6
   -FRAMEWORK
   -laravel
